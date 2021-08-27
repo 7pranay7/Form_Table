@@ -1,0 +1,36 @@
+table{
+    
+    box-shadow: 10px 10px 5px #414040;
+    border: 2px solid;
+    border-collapse: collapse;
+}
+td,th{
+    border:2px solid;
+    border-collapse: collapse;
+}
+input{
+    border: none;
+}
+#h1{
+    text-align: center;
+    background: white;
+}
+#a1{
+    text-align: center;
+    background: rgb(155, 199, 219);
+    padding: 10px;
+}
+#a2{
+    background: white;
+    padding: 10px;
+}
+body{
+    background: rgb(155, 199, 219);
+}
+h4{
+    margin-left:64%;
+}
+#p1{
+    background: white;
+    text-align: center;
+}
